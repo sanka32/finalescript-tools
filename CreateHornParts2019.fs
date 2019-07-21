@@ -6,11 +6,11 @@ strike alt "o"
 strike "s"
 
 
-
 // ----- 1. Create Instruments in Score Manager
-
+// ctrl k always opens ScoreManager, even if it's already open
 strike ctrl "k"
-wait 1 second
+wait 2 seconds
+
 
 // Add Instrument...
 click "Add Instrument..."
@@ -58,6 +58,12 @@ click "Bass Trombone"
 strike enter
 wait 3 seconds
 
+strike ctrl "k"
+// menuitem will toggle scoremanager, so this is a hack to make sure it's closed
+menitem "Window\Score Manager"
+
+
+
 
 
 //   change to score edit, display concert pitches
@@ -68,21 +74,21 @@ display in concert pitch
 
 
 
-// copy text markings from Vocals to new staves
-// (there's probably a better way to do this - ie set all text blocks to show on top stave of all parts?)
+// TODO copy text markings from Vocals to new staves
+// this doesn't wok half the time because the staff order is inconsistent across files, and I can't select all by name as it won't select any instrument with a flat in the name... 
 
-// need to ensure filter is on
-menu item "Edit Filter..."
-click "None"
-check "Text blocks (assigned to measures)"
-click "Ok"
-// copy 
-select staff 1
-copy
-// paste 
-select staff 2
-paste
-select staff 3
-paste
-select staff 4
-paste
+//// need to ensure filter is on
+//menu item "Edit Filter..."
+//click "None"
+//check "Text blocks (assigned to measures)"
+//click "Ok"
+//// copy 
+//select staff 1
+//copy
+//// paste 
+//select staff 2
+//paste
+//select staff 3
+//paste
+//select staff 4
+//paste
