@@ -30,6 +30,7 @@ strike ctrl "k"
 wait 1 second
 
 
+
 // Add Instrument...
 click "Add Instrument..."
 //tab 2
@@ -75,17 +76,16 @@ display in concert pitch
 
 
 // TODO copy text markings from Vocals to new staves
-// this doesn't wok half the time because the staff order is inconsistent across files, and I can't select all by name as it won't select any instrument with a flat in the name... 
 
-//// need to ensure filter is on
+// need to ensure filter is on
 //menu item "Edit Filter..."
 //click "None"
 //check "Text blocks (assigned to measures)"
 //click "Ok"
-//// copy 
+// copy 
 //select staff 1
 //copy
-//// paste 
+// paste 
 //select staff 2
 //paste
 //select staff 3
