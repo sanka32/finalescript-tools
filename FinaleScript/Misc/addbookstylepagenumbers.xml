@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Add Book Style Page Numbers">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//Your mouse pointer should be near the top left corner of the page." />
+        <line content="//Creating a shortcut can make this script easier." />
+        <line content="" />
+        <line content="text tool" />
+        <line content="double click" />
+        <line content='menu item &quot;Page Number&quot;' />
+        <line content='menu item &quot;Frame Attributes&quot;' />
+        <line content='dropdown &quot;Page Range&quot; near &quot;Attach to&quot;' />
+        <line content='type 2 near &quot;Page Range&quot;' />
+        <line content='type 0 near &quot;Horizontal&quot;' />
+        <line content='type &quot;48evpus&quot; near &quot;Vertical&quot;' />
+        <line content='check &quot;Use Right Page Positioning&quot;' />
+        <line content='dropdown &quot;Right&quot; near &quot;Use Right Page Positioning&quot;' />
+        <line content='type &quot;48evpus&quot; near &quot;cancel&quot;' />
+        <line content="click OK" />
+    </lines>
+</script>

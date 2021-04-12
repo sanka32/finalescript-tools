@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Apply MSN">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content='dialog &quot;This script will apply Modified Stave Notation settings to all open documents based on the Modified Stave Notation template included with Finale. If you have not already opened the Modified Stave Notation template, click Cancel, open the template, and make sure it is the active document before running this script.&quot;' />
+        <line content="" />
+        <line content="process all open" />
+        <line content="don&apos;t process active document" />
+        <line content="" />
+        <line content="import house style" />
+        <line content="import option categories" />
+        <line content="import page format" />
+        <line content="redefine pages" />
+        <line content="click OK" />
+        <line content="unlock systems" />
+        <line content="" />
+        <line content='dialog &quot;Modified Stave Notation applied. Font settings for existing elements (lyrics, text blocks, staff names, etc) should be updated, which can be done using Text Search and Replace. Additionally, existing expressions should be updated to use category fonts and positioning. Positioning of certain elements and overall measure layout should also be reviewed. For more information, see the Large print music topic in the Finale User Manual.&quot;' />
+    </lines>
+</script>

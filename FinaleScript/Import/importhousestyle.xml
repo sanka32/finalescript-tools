@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Import House Style">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="/*HOUSE STYLE is all options included in the Document Options dialog box, plus" />
+        <line content="all of the SmartShape Options. This script must be run with your template as the" />
+        <line content="current document.*/" />
+        <line content="" />
+        <line content="//batch process folder" />
+        <line content="process all open docs" />
+        <line content="don&apos;t process current doc" />
+        <line content="" />
+        <line content="import house style" />
+        <line content="" />
+        <line content="//Note that this command is outside the house style:" />
+        <line content="import page format (for score)" />
+        <line content="" />
+    </lines>
+</script>

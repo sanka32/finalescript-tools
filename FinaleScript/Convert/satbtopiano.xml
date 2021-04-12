@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="SATB to Piano">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//This script creates an instant piano reduction of an &apos;SATB&apos; score" />
+        <line content="//or any 4 staff score" />
+        <line content="" />
+        <line content="//process folder" />
+        <line content="//process all open docs" />
+        <line content="work on layer 1" />
+        <line content='add piano staves &quot;Piano&quot;' />
+        <line content="select staff 2" />
+        <line content="copy" />
+        <line content="select staff 5" />
+        <line content="paste" />
+        <line content="move layer 1 to 2" />
+        <line content="//delete lyrics" />
+        <line content="select staff 1" />
+        <line content="copy" />
+        <line content="select staff 5" />
+        <line content="paste" />
+        <line content="//delete lyrics" />
+        <line content="select staff 4" />
+        <line content="copy" />
+        <line content="select staff 6" />
+        <line content="paste" />
+        <line content="move layer 1 to 2" />
+        <line content="//delete lyrics" />
+        <line content="select staff 3" />
+        <line content="copy" />
+        <line content="select staff 6" />
+        <line content="paste" />
+        <line content="//delete lyrics" />
+        <line content="" />
+        <line content="//Optional:" />
+        <line content="Staff tool" />
+        <line content="select staves 1 to 4" />
+        <line content='menu item &quot;delete staves and reposition&quot;' />
+        <line content="" />
+        <line content="show all layers" />
+        <line content="" />
+        <line content="select staff 1" />
+        <line content="Staff Attributes" />
+        <line content='Uncheck &quot;Alternate Notation:&quot;' />
+        <line content='Hit &quot;Ok&quot;' />
+        <line content="select staff 2" />
+        <line content="Staff Attributes" />
+        <line content='Uncheck &quot;Alternate Notation:&quot;' />
+        <line content='Hit &quot;Ok&quot;' />
+        <line content="" />
+        <line content='//save and append &quot;piano&quot;' />
+        <line content="//close" />
+    </lines>
+</script>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Units Example">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="/*The global unit can be set with the Unit command or can be set in a specific" />
+        <line content="line*/" />
+        <line content="" />
+        <line content="unit evpus" />
+        <line content="staffline thickness 6" />
+        <line content="page format 21x29.7 cm&#x09;" />
+        <line content="//the cm overrides the unit command in the current line only" />
+        <line content="beam thickness 24" />
+        <line content="//staffline thickness .02 inch" />
+        <line content="" />
+    </lines>
+</script>

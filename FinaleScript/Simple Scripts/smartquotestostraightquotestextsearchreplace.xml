@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Smart quotes to straight quotes Text Search &amp; Replace">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//Double quotes" />
+        <line content='search &quot;“&quot; replace with &quot;&lt;34&gt;&quot;' />
+        <line content='search &quot;”&quot; replace with &quot;&lt;34&gt;&quot;' />
+        <line content="" />
+        <line content="//Single quotes" />
+        <line content='search &quot;‘&quot; replace with &quot;&lt;39&gt;&quot;' />
+        <line content='search &quot;’&quot; replace with &quot;&lt;39&gt;&quot;' />
+    </lines>
+</script>

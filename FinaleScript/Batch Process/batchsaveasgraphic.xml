@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Batch Save As Graphic">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="Batch Process Folder" />
+        <line content="//Process all open docs" />
+        <line content="" />
+        <line content="Graphics tool" />
+        <line content='Menu item &quot;Export Pages&quot;' />
+        <line content="" />
+        <line content='Popup &quot;TIFF&quot;' />
+        <line content='//Popup &quot;PICT&quot;' />
+        <line content='//Popup &quot;EPS&quot;' />
+        <line content='//Popup &quot;PDF&quot;' />
+        <line content="" />
+        <line content='Check &quot;all&quot;' />
+        <line content='Check &quot;Generate Names From:&quot;' />
+        <line content='Type 1200 near &quot;Resolution:&quot;&quot;&quot;' />
+        <line content="" />
+        <line content='//Check &quot;Include Fonts&quot;' />
+        <line content='//Check &quot;Allow Transparency&quot;' />
+        <line content="" />
+        <line content='Press &quot;OK&quot;' />
+        <line content="//expect to return&#x09;//For save as PDF" />
+        <line content="Close" />
+        <line content="" />
+        <line content="End" />
+    </lines>
+</script>

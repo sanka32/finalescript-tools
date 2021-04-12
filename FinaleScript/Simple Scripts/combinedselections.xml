@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Combined Selections">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//select meas 3 to 4" />
+        <line content="//select staves 2 to 3" />
+        <line content="//... selects the wanted region" />
+        <line content="" />
+        <line content="//Note that the selections must be consecutive, as..." />
+        <line content="" />
+        <line content="select meas 3 to 4" />
+        <line content="respace" />
+        <line content="select staves 2 to 3" />
+        <line content="clear music" />
+        <line content="" />
+    </lines>
+</script>

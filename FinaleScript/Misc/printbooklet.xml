@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Print Booklet">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="/* FinaleScript can automatically format booklet pages for a Finale file of 4, " />
+        <line content="8, 12 and 16 pages. If your score has more than 16 pages, FinaleScript will " />
+        <line content="paginate correctly with blank pages at end. For example, 60 pages=16+16+16+12 " />
+        <line content="while 57 pages=16+16+16+(9+3 blank), and so on.*/" />
+        <line content="" />
+        <line content='message &quot;Remember to set paper orientation to landscape in your printer.&quot;' />
+        <line content="print booklet" />
+        <line content="" />
+        <line content="//This section allows to specify the # of pages/booklet:" />
+        <line content="//print booklet 8" />
+        <line content="" />
+        <line content="//If your printer does not have a duplexing feature, simply:" />
+        <line content="//print booklet recto" />
+        <line content="//Then, reverse and reintroduce the pages in your printer and" />
+        <line content='//Message &quot;Reverse and reinsert pages into the printer.&quot;' />
+        <line content="//print booklet verso" />
+        <line content="" />
+    </lines>
+</script>

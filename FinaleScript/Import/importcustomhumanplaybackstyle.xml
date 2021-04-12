@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Import Custom Human Playback Style">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//process all open docs" />
+        <line content="//don&apos;t process current doc" />
+        <line content="//batch process folder" />
+        <line content="" />
+        <line content="import human playback options" />
+        <line content="" />
+    </lines>
+</script>

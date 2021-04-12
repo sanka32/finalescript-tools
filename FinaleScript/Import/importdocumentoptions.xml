@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Import Document Options">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//This script will take settings from a document, and apply them to other " />
+        <line content="//documents either that are open or contained in a folder. This script " />
+        <line content="//should be run with the source document as the active document." />
+        <line content="" />
+        <line content="process all open docs" />
+        <line content="//process folder" />
+        <line content="don&apos;t process current doc" />
+        <line content="" />
+        <line content="//import accidentals options" />
+        <line content="//import alternate notation options" />
+        <line content="//import dots options" />
+        <line content="//import barlines options" />
+        <line content="//import beams options" />
+        <line content="//import chords options" />
+        <line content="//import clef options" />
+        <line content="//import flags options" />
+        <line content="//import fonts options" />
+        <line content="//import grace notes options" />
+        <line content="//import grid and guides options" />
+        <line content="//import key signatures options" />
+        <line content="//import layers options" />
+        <line content="//import lines options" />
+        <line content="//import lyrics options" />
+        <line content="//import multimeasure rests options" />
+        <line content="//import spacing options" />
+        <line content="//import notes and rests options" />
+        <line content="//import piano braces options" />
+        <line content="//import repeat options" />
+        <line content="//import stems options" />
+        <line content="//import text options" />
+        <line content="//import ties options" />
+        <line content="//import time signature options" />
+        <line content="//import tuplets options" />
+        <line content="//import smartshape options " />
+        <line content="//(includes: contour, placement, general opts, smart slurs)" />
+        <line content="//import page format for score    " />
+        <line content="//to be combined with &apos;apply page format&apos; command" />
+        <line content="" />
+        <line content="//You can also group some options on just one line:" />
+        <line content="//import clef, time, key and lines options" />
+        <line content="" />
+        <line content="//To import all document options:" />
+        <line content="//import house style" />
+        <line content="" />
+    </lines>
+</script>

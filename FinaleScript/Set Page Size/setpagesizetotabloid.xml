@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Set Page Size to Tabloid">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//batch process folder" />
+        <line content="//process all open" />
+        <line content="" />
+        <line content="page format tabloid " />
+        <line content="//resize pages to 75%" />
+        <line content="//resize systems to 80%" />
+        <line content="//staff height = 82 evpus" />
+        <line content="reorganize layout" />
+        <line content="respace all" />
+        <line content='message &quot;Remember to adjust the page size in Page Setup under the File Menu.&quot;' />
+        <line content="" />
+    </lines>
+</script>

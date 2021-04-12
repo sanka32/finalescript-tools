@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Correct Typo in Lyrics (User Defined)">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content='//Enter incorrect word after search within the &quot; &quot;' />
+        <line content='//Enter correct word after replace within the &quot; &quot;' />
+        <line content='example search &quot; &quot; lyrics replace &quot; &quot;' />
+        <line content="" />
+        <line content="//TSAR syntax reminder:" />
+        <line content="// Search and Replace parameters:" />
+        <line content="" />
+        <line content="/* Type of Text: &#x09;&#x09;&#x09;&#x09;&#x09;&#x09;--If no type listed all text is searched" />
+        <line content="&#x09;expressions" />
+        <line content="&#x09;text blocks" />
+        <line content="&#x09;lyrics" />
+        <line content="&#x09;smartshapes" />
+        <line content="&#x09;staff names" />
+        <line content="&#x09;group names" />
+        <line content="&#x09;Staff Styles" />
+        <line content="&#x09;Repeats" />
+        <line content="&#x09;articulations" />
+        <line content="&#x09;" />
+        <line content="   Type of search:" />
+        <line content=" &#x09;case" />
+        <line content=" &#x09;whole word" />
+        <line content=" &#x09;Font [Times]&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;--When used as part of TSAR, font names " />
+        <line content="&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;  should be in brackets" />
+        <line content="   Size&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;&#x09;--Simply list the number" />
+        <line content="" />
+        <line content="   Style: " />
+        <line content="&#x09;plain/regular/standard" />
+        <line content="&#x09;{non} italic" />
+        <line content="&#x09;{non} bold" />
+        <line content="&#x09;{non} underline" />
+        <line content="&#x09;{non} hidden" />
+        <line content="&#x09;{non} fixed" />
+        <line content="&#x09;" />
+        <line content="   Caret Sequences/Text Inserts:" />
+        <line content="&#x09;^l&#x09;--line feed" />
+        <line content="&#x09;^t&#x09;--tab" />
+        <line content="&#x09;^T&#x09;--title text insert" />
+        <line content="&#x09;^d&#x09;--file description insert" />
+        <line content="&#x09;^c&#x09;--copyright text insert" />
+        <line content="&#x09;^@&#x09;--copyright symbol" />
+        <line content="&#x09;^C&#x09;--composer insert" />
+        <line content="&#x09;^s&#x09;--sharp insert" />
+        <line content="&#x09;^#&#x09;--sharp insert" />
+        <line content="&#x09;^b&#x09;--flat insert" />
+        <line content="&#x09;^S&#x09;--double sharp insert" />
+        <line content="&#x09;^B&#x09;--double flat insert" />
+        <line content="&#x09;^n&#x09;--natural insert" />
+        <line content="&#x09;^^&#x09;--caret character" />
+        <line content="&#x09;&lt;65&gt; --ASCII character number" />
+        <line content="*/" />
+        <line content="" />
+    </lines>
+</script>

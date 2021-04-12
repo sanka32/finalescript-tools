@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Batch Printing">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="process folder" />
+        <line content="//process all open docs" />
+        <line content="" />
+        <line content="print" />
+        <line content="" />
+        <line content="//More attributes:" />
+        <line content="//print pages 1 to 2" />
+        <line content="//print 10 to end" />
+        <line content="" />
+        <line content="//print odd pages" />
+        <line content="//print even pages" />
+        <line content="//print 2-up (or 4-up)" />
+        <line content="" />
+        <line content="//You can also use a string for specific page selection:" />
+        <line content='//print 2-up &quot;2-4, 10-16, 24-100&quot;' />
+        <line content="" />
+    </lines>
+</script>

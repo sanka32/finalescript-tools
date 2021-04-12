@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<folder-settings expanded="0">
+    <file-order>
+        <file name="sethorncopypastefilter.xml" />
+        <file name="leadsheetmdafterhornpartsadded.xml" />
+        <file name="createleadsheetsmd.xml" />
+        <file name="createhornparts2019.xml" />
+        <file name="createsolotrom.xml" />
+        <file name="printallpartstopdf.xml" />
+        <file name="printnewtromparts.xml" />
+        <file name="synctexttohorns2-5.xml" />
+    </file-order>
+</folder-settings>

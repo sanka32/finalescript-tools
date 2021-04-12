@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Create Solo Trom">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//process all open" />
+        <line content="" />
+        <line content="" />
+        <line content="// ---- make sure we are on score first" />
+        <line content='strike alt &quot;o&quot;' />
+        <line content='strike &quot;s&quot;' />
+        <line content="" />
+        <line content="" />
+        <line content="// ----- 1. Create Instruments in Score Manager" />
+        <line content="// ctrl k always opens ScoreManager, even if it&apos;s already open" />
+        <line content='strike ctrl &quot;k&quot;' />
+        <line content="wait 2 seconds" />
+        <line content="" />
+        <line content="" />
+        <line content="// Add Instrument..." />
+        <line content='click &quot;Add Instrument...&quot;' />
+        <line content="//tab 2" />
+        <line content="" />
+        <line content="//All / Brass / Bass Trombone" />
+        <line content='click &quot;All&quot;' />
+        <line content='click &quot;Brass&quot;' />
+        <line content='click &quot;Bass Trombone&quot;' />
+        <line content="strike enter" />
+        <line content="wait 3 seconds" />
+        <line content="" />
+        <line content='strike ctrl &quot;k&quot;' />
+        <line content="// menuitem will toggle scoremanager, so this is a hack to make sure it&apos;s closed" />
+        <line content='menitem &quot;Window\Score Manager&quot;' />
+        <line content="" />
+        <line content="" />
+        <line content="" />
+        <line content="" />
+        <line content="" />
+        <line content="//   change to score edit, display concert pitches" />
+        <line content='strike alt &quot;o&quot;' />
+        <line content='strike &quot;s&quot;' />
+        <line content="" />
+        <line content="display in concert pitch" />
+        <line content="" />
+        <line content="" />
+        <line content="" />
+        <line content="// copy from old stave to new" />
+        <line content="" />
+        <line content="// need to ensure filter is off" />
+        <line content='menu item &quot;Edit Filter...&quot;' />
+        <line content='click &quot;All&quot;' />
+        <line content='click &quot;Ok&quot;' />
+        <line content="" />
+        <line content="select staff 4" />
+        <line content="copy" />
+        <line content="select staff 5" />
+        <line content="paste" />
+    </lines>
+</script>

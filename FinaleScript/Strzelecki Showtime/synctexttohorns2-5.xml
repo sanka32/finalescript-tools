@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Sync Text To Horns 2-5">
+    <shortcut command="ctrl shift alt G" enable="1" in-menu="1" />
+    <lines>
+        <line content="// TODO copy text markings from Vocals to new staves" />
+        <line content="" />
+        <line content="// need to ensure filter is on" />
+        <line content='menu item &quot;Edit Filter...&quot;' />
+        <line content='click &quot;None&quot;' />
+        <line content='check &quot;Text blocks (assigned to measures)&quot;' />
+        <line content='click &quot;Ok&quot;' />
+        <line content=" " />
+        <line content="select staff 1" />
+        <line content="copy" />
+        <line content="" />
+        <line content="select staff 2" />
+        <line content="paste" />
+        <line content="select staff 3" />
+        <line content="paste" />
+        <line content="select staff 4" />
+        <line content="paste" />
+    </lines>
+</script>

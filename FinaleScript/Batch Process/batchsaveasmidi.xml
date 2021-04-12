@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Batch Save As MIDI">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="batch process folder" />
+        <line content="//process all open docs" />
+        <line content="" />
+        <line content="save as midi" />
+        <line content="expect to press return" />
+        <line content="close" />
+    </lines>
+</script>

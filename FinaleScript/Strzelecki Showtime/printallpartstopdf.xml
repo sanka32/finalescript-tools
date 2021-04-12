@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Print All Parts to PDF">
+    <shortcut command="" enable="0" in-menu="1" />
+    <lines>
+        <line content="// Relies on PDFCreator setup as default printer and &apos;custom&apos; printer that doesn&apos;t pop up a dialog box when trying to print" />
+        <line content="" />
+        <line content="process all open docs" />
+        <line content="" />
+        <line content="don&apos;t display in concert pitch" />
+        <line content="" />
+        <line content="print dialog" />
+        <line content='button &quot;Check All&quot;' />
+        <line content='activate &quot;Display colors&quot;' />
+        <line content="" />
+        <line content="// move this earlier to make sure it pauses - so as not to overload pdf print driver" />
+        <line content="pause 20 " />
+        <line content="" />
+        <line content='button &quot;Ok&quot;' />
+    </lines>
+</script>

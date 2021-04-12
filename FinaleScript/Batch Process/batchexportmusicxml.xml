@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Batch Export MusicXML">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="Batch Process Folder" />
+        <line content="//Process all open docs" />
+        <line content="" />
+        <line content='Menu Item &quot;File/Export/MusicXML&quot;' />
+        <line content="Return" />
+        <line content="" />
+        <line content="End" />
+    </lines>
+</script>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Set Human Playback Style (User defined)">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="" />
+        <line content="//process all open docs" />
+        <line content="//batch process folder" />
+        <line content="//human playback none" />
+        <line content="human playback standard" />
+        <line content="//human playback baroque" />
+        <line content="//human playback classical" />
+        <line content="//human playback romantic" />
+        <line content="//human playback 21st century" />
+        <line content="//human playback Viennese Waltz" />
+        <line content="//human playback funk" />
+        <line content="//human playback jazz" />
+        <line content="//human playback latin" />
+        <line content="//human playback pop" />
+        <line content="//human playback reggae" />
+        <line content="//human playback rock" />
+        <line content="//human playback samba" />
+        <line content="" />
+    </lines>
+</script>

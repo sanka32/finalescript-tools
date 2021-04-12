@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Respacing the Document">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="process open documents" />
+        <line content="//This will process any open documents" />
+        <line content="" />
+        <line content="//process folder" />
+        <line content="//The above will process all files in whatever has been chosen as the batch " />
+        <line content="//process folder." />
+        <line content="" />
+        <line content="respace" />
+        <line content="" />
+        <line content="//You can also specify the type of spacing:" />
+        <line content="//time signature spacing" />
+        <line content="//beat spacing" />
+        <line content="" />
+    </lines>
+</script>

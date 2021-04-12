@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Batch Generate Linked Parts">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="Batch Process Folder" />
+        <line content="//Process all open docs" />
+        <line content="" />
+        <line content='Menu item &quot;Manage Parts&quot;' />
+        <line content='Hit &quot;Generate Parts&quot;' />
+        <line content="Hit ok" />
+        <line content="" />
+        <line content="Save" />
+        <line content="Close" />
+        <line content="" />
+        <line content="End" />
+    </lines>
+</script>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<finalescript-options>
+    <shortcut enable="1" command="ctrl shift alt R" />
+    <load-folder path="" remember="0" />
+    <save-folder path="" remember="0" />
+    <gui remember-state="1" transparency="1" syntax-coloring="1" palette-is-visible="0">
+        <palette-position left="155043320" top="0" right="-570188448" bottom="32763" />
+        <editor-position left="162" top="188" right="662" bottom="728" />
+    </gui>
+    <scripting focus-back-to-doc="1" confirm-delete="1" detailed-report="0" bypass-blocking-dialogs="1" custom-measure-numbers="0" no-palette-upon-script="1" />
+</finalescript-options>

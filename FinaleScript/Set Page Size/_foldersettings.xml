@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<folder-settings expanded="0">
+    <file-order>
+        <file name="portraitlettertolandscapea4.xml" />
+        <file name="setpagesizetob4.xml" />
+        <file name="setpagesizetoconcert.xml" />
+        <file name="setpagesizetofolio.xml" />
+        <file name="setpagesizetoletter.xml" />
+        <file name="setpagesizetotabloid.xml" />
+    </file-order>
+</folder-settings>

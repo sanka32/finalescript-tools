@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<folder-settings expanded="0">
+    <file-order>
+        <file name="batchexportmusicxml.xml" />
+        <file name="batchgeneratelinkedparts.xml" />
+        <file name="batchopenmidifilespasteintotemplate.xml" />
+        <file name="batchprinting.xml" />
+        <file name="batchsaveasgraphic.xml" />
+        <file name="batchsaveasmidi.xml" />
+        <file name="convertfolderoffilestothecurrentfinaleformat.xml" />
+    </file-order>
+</folder-settings>

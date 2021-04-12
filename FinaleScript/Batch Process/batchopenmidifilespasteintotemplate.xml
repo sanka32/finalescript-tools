@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Batch Open MIDI files (Paste into Template)">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="batch process folder" />
+        <line content="open midi files" />
+        <line content="" />
+        <line content="//transpose in C major" />
+        <line content="page format letter" />
+        <line content="respace" />
+        <line content="update layout" />
+        <line content="" />
+        <line content="" />
+        <line content="//The following allows you to insert the file into a template of your choice" />
+        <line content="select all" />
+        <line content="copy" />
+        <line content="//The OPEN ? command will pop the Open dialog box, to choose the template to be " />
+        <line content="//used as the destination template." />
+        <line content="open ?" />
+        <line content="select measure all" />
+        <line content="//If your template has the correct number of measures, choose paste instead of " />
+        <line content="//insert" />
+        <line content="// paste " />
+        <line content="insert" />
+        <line content="Ok" />
+        <line content='//save and append &quot;new&quot;' />
+        <line content="//close" />
+    </lines>
+</script>

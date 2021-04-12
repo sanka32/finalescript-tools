@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Safety Message">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//FinaleScript can throw a message using the MESSAGE command" />
+        <line content="" />
+        <line content="process open docs" />
+        <line content="" />
+        <line content="select first staff" />
+        <line content="delete staff" />
+        <line content="select all" />
+        <line content="remove chords" />
+        <line content="remove lyrics" />
+        <line content="respace all" />
+        <line content='message  &quot;Continue?&quot;   ' />
+        <line content="//parameters are yes no and OK Cancel" />
+    </lines>
+</script>

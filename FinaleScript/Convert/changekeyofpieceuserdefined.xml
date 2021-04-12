@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Change Key of Piece (User Defined)">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="//process folder" />
+        <line content="//process all open docs" />
+        <line content="//The format is as follows:" />
+        <line content="//- key (or transpose) (key) major/minor." />
+        <line content="select all" />
+        <line content="//key Ab major" />
+        <line content="//key A major" />
+        <line content="//key A# major" />
+        <line content="key Bb major" />
+        <line content="//key B major" />
+        <line content="//key B# major" />
+        <line content="//key Cb major" />
+        <line content="//key C major" />
+        <line content="//key C# major" />
+        <line content="//key Db major" />
+        <line content="//key D major" />
+        <line content="//key D# major" />
+        <line content="//key Eb major" />
+        <line content="//key E major" />
+        <line content="//key E# major" />
+        <line content="//key Fb major" />
+        <line content="//key F major" />
+        <line content="//key F# major" />
+        <line content="//key Gb major" />
+        <line content="//key G major" />
+        <line content="//key G# major" />
+        <line content="//key Ab minor" />
+        <line content="//key A minor" />
+        <line content="//key A# minor" />
+        <line content="//key Bb minor" />
+        <line content="//key B minor" />
+        <line content="//key B# minor" />
+        <line content="//key Cb minor" />
+        <line content="//key C minor" />
+        <line content="//key C# minor" />
+        <line content="//key Db minor" />
+        <line content="//key D minor" />
+        <line content="//key D# minor" />
+        <line content="//key Eb minor" />
+        <line content="//key E minor" />
+        <line content="//key E# minor" />
+        <line content="//key Fb minor" />
+        <line content="//key F minor" />
+        <line content="//key F# minor" />
+        <line content="//key Gb minor" />
+        <line content="//key G minor" />
+        <line content="//key G# minor" />
+        <line content="" />
+    </lines>
+</script>

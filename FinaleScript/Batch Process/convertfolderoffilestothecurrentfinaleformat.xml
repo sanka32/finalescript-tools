@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Convert folder of Files to the current Finale Format">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="" />
+        <line content="//This script will convert a batch of folders to the newest Finale format. If " />
+        <line content="//the active document has settings that you wish to apply to all the files, " />
+        <line content="//remove the slashes on the second and third lines of the script." />
+        <line content="" />
+        <line content="" />
+        <line content="batch process folder" />
+        <line content="//don&apos;t process current document" />
+        <line content="//import house style" />
+        <line content='save and append &quot;_Conv&quot;' />
+        <line content="close all" />
+        <line content="//End of Script" />
+        <line content="" />
+    </lines>
+</script>

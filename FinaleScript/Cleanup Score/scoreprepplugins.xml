@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Score Prep plugins">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content='plugin &quot;patterson beams&quot;' />
+        <line content="expect to press return" />
+        <line content='plugin &quot;score system divider&quot;' />
+        <line content="expect to press return" />
+    </lines>
+</script>

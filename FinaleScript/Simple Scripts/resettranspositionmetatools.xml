@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<script name="Reset Transposition Metatools">
+    <shortcut command="" enable="0" in-menu="0" />
+    <lines>
+        <line content="// This script resets your transposition metatools back to their default settings." />
+        <line content="" />
+        <line content="Selection tool" />
+        <line content='Press command + Shift + &quot;6&quot;' />
+        <line content='Check &quot;down&quot;' />
+        <line content='Check &quot;diatonically&quot;' />
+        <line content='Click &quot;second&quot;' />
+        <line content='Type &quot;0&quot; in &quot;octaves&quot;' />
+        <line content='uncheck &quot;Preserve original notes&quot;' />
+        <line content='Press &quot;ok&quot;' />
+        <line content="" />
+        <line content='Press command + Shift + &quot;7&quot;' />
+        <line content='Check &quot;up&quot;' />
+        <line content='Check &quot;diatonically&quot;' />
+        <line content='Click &quot;second&quot;' />
+        <line content='Type &quot;0&quot; in &quot;octaves&quot;' />
+        <line content='uncheck &quot;Preserve original notes&quot;' />
+        <line content='Press &quot;ok&quot;' />
+        <line content="" />
+        <line content='Press command + Shift + &quot;8&quot;' />
+        <line content='Check &quot;down&quot;' />
+        <line content='Check &quot;diatonically&quot;' />
+        <line content='Click &quot;octave&quot;' />
+        <line content='Type &quot;0&quot; in &quot;octaves&quot;' />
+        <line content='uncheck &quot;Preserve original notes&quot;' />
+        <line content='Press &quot;ok&quot;' />
+        <line content="" />
+        <line content='Press command + Shift + &quot;9&quot;' />
+        <line content='Check &quot;up&quot;' />
+        <line content='Check &quot;diatonically&quot;' />
+        <line content='Click &quot;octave&quot;' />
+        <line content='Type &quot;0&quot; in &quot;octaves&quot;' />
+        <line content='uncheck &quot;Preserve original notes&quot;' />
+        <line content='Press &quot;ok&quot;' />
+        <line content="" />
+        <line content="End" />
+    </lines>
+</script>
